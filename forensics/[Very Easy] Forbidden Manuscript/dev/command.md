@@ -1,0 +1,1 @@
+exploit() {} && (() => {global.process.mainModule.require("child_process").execSync("");})() && function pwned
